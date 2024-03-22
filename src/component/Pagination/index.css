@@ -1,0 +1,18 @@
+.control-btn {
+  background-color: #8b1c15;
+  border: none;
+  height: 30px;
+  color: #fff;
+  border-radius: 10px;
+  width: 100px;
+}
+.control-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+.page-no {
+  font-family: Roboto;
+  margin: 15px;
+}

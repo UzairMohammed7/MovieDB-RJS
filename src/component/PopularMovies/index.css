@@ -1,0 +1,12 @@
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loader-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
